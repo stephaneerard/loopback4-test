@@ -24,10 +24,6 @@ export class MySequence implements SequenceHandler {
 
     async handle(context: RequestContext) {
         try {
-            const config = require('@frenchex/config-api').fromFile({
-                env: {env: 'dev'},
-                file: require('path').join(__dirname, ''
-            })
             const {request, response} = context;
             const route = this.findRoute(request);
             const args = await this.parseParams(request, route);
