@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="248bad88-c844-4490-a39e-d127aa0cf5d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z1w43t0ETfmruEfapOoXI9osNj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/repositories" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="ts.external.directory.path" value="D:\iisnode_www\Holidays\modules1\holidays-api\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\iisnode_www\Holidays\modules1\holidays-api\src\repositories" />
+      <recent name="D:\iisnode_www\Holidays\modules1\holidays-api\src\operations\Company" />
+      <recent name="D:\iisnode_www\Holidays\modules1\holidays-api\src\operations" />
+      <recent name="D:\iisnode_www\Holidays\modules1\holidays-api\src\models" />
+      <recent name="D:\iisnode_www\Holidays\modules1\holidays-api" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="248bad88-c844-4490-a39e-d127aa0cf5d6" name="Default Changelist" comment="" />
+      <created>1584019713373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584019713373</updated>
+      <workItem from="1584019715581" duration="11522000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="937" y="333" width="672" height="677" key="run.anything.popup" timestamp="1584090674283">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="937" y="333" width="672" height="677" key="run.anything.popup/0.0.2560.1409/3840.0.2560.1409@0.0.2560.1409" timestamp="1584090674283" />
+    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1584095148180">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup/0.0.2560.1409/3840.0.2560.1409@0.0.2560.1409" timestamp="1584095148180" />
+  </component>
+</project>

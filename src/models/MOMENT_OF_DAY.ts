@@ -1,0 +1,5 @@
+export enum MOMENT_OF_DAY {
+    MORNING = "MORNING",
+    AFTERNOON = "AFTERNOON",
+    ALLDAY = "ALLDAY"
+}
