@@ -19,6 +19,6 @@ export class Role {
     @Column({type: Date})
     activeFrom: Date
 
-    @Column({type: Date})
+    @Column({type: Date, nullable: true})
     activeTo?: Date
 }

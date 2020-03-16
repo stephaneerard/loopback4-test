@@ -8,8 +8,7 @@ import {
     DeleteDateColumn,
     UpdateDateColumn, ManyToOne
 } from "typeorm";
-import {Employee, Country, CompanyWorksInCountryDuringPeriod} from "./index";
-import {WorkingDays} from "./WorkingDay.model";
+import {Employee, Country, CompanyWorksInCountryDuringPeriod, WorkingDay} from "./index";
 
 @Entity()
 export class Company {
@@ -36,8 +35,8 @@ export class Company {
     @UpdateDateColumn({name: 'updated_at'})
     updatedAt: Date
 
-    @OneToMany(type => WorkingDays, workingDays => workingDays.Company)
-    workingDays: WorkingDays[]
+    @OneToMany(type => WorkingDay, workingDays => workingDays.Company)
+    workingDays: WorkingDay[]
 
     public async worksInCountryDuringPeriod(country: Country, from: Date, to: Date, work?: CompanyWorksInCountryDuringPeriod) {
         if (!work)

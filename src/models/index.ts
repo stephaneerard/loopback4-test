@@ -8,5 +8,5 @@ export * from "./Role.model"
 export * from "./VacationRequest.model"
 export * from "./WithinMonthVacationRequest.model"
 export * from "./WorkingDay.model"
-export * from "./WorkingHours"
+export * from "./WorkingHours.model"
 

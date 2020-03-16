@@ -1,6 +1,5 @@
 import {Column, Entity, Generated, ManyToOne, OneToMany, PrimaryGeneratedColumn} from "typeorm";
-import {Company, DAYS_OF_WEEK} from "./index";
-import {WorkingHours} from "./WorkingHours";
+import {Company, DAYS_OF_WEEK, WorkingHours} from "./index";
 
 @Entity()
 export class WorkingDay {

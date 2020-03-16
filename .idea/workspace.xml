@@ -3,11 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="248bad88-c844-4490-a39e-d127aa0cf5d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Company.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Company.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Role.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Role.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/WorkingDay.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/WorkingDay.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/WorkingHours.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/WorkingHours.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="ComposerSettings">
     <execution>
@@ -40,7 +50,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="ts.external.directory.path" value="D:\iisnode_www\Holidays\modules1\holidays-api\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Repos\HolidaysDemands\api\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -63,6 +73,7 @@
       <updated>1584019713373</updated>
       <workItem from="1584019715581" duration="11522000" />
       <workItem from="1584108654818" duration="1139000" />
+      <workItem from="1584114447204" duration="2219000" />
     </task>
     <servers />
   </component>
