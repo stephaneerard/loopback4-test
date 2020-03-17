@@ -1,1 +1,1 @@
-export * from './ping.controller';
+export * from './subsidiary.controller';

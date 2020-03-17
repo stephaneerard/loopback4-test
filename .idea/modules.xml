@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../front-back-interfaces/.idea/front-back-interfaces.iml" filepath="$PROJECT_DIR$/../front-back-interfaces/.idea/front-back-interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/holidays-api.iml" filepath="$PROJECT_DIR$/.idea/holidays-api.iml" />
     </modules>
   </component>

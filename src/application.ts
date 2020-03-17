@@ -17,6 +17,7 @@ export class HolidaysApiApplication extends BootMixin(
 ) {
   constructor(options: ApplicationConfig = {}) {
     super(options);
+    useContainer(Container);
 
     // Set up the custom sequence
     this.sequence(MySequence);

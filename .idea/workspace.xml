@@ -2,12 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="248bad88-c844-4490-a39e-d127aa0cf5d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/holidays-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/holidays-api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Company.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Company.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Role.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Role.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/WorkingDay.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/WorkingDay.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/WorkingHours.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/WorkingHours.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ormconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ormconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__tests__/acceptance/ping.controller.acceptance.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/__tests__/acceptance/subsidiary.controller.acceptance.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/application.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/ping.controller.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Company.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/CompanyWorksInCountryDuringPeriod.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Country.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/DAYS_OF_WEEK.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Employee.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/MOMENT_OF_DAY.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Role.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/VacationRequest.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/WithinMonthVacationRequest.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/WorkingDay.model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/WorkingHours.model.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/models/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/Company/Company.Create.operation.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operations/Company/Company.WorksInCountryDuringPeriod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/Company.repository.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/CompanyWorksInCountryDuringPeriod.repository.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/Country.repository.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/Employee.repository.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/Role.repository.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/VacationRequest.repository.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/WithinMonthVacationRequest.repository.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repositories/WorkingDays.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/repositories/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,28 +64,91 @@
   <component name="ProjectId" id="1Z1w43t0ETfmruEfapOoXI9osNj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/repositories" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../front-back-interfaces/src/GetSubsidiary" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="C:\Repos\HolidaysDemands\api\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Repos\HolidaysDemands\front-back-interfaces\src\GetSubsidiary" />
+      <recent name="C:\Repos\HolidaysDemands\front-back-interfaces" />
+      <recent name="C:\Repos\HolidaysDemands\api\src\__tests__\acceptance" />
       <recent name="D:\iisnode_www\Holidays\modules1\holidays-api\src\repositories" />
       <recent name="D:\iisnode_www\Holidays\modules1\holidays-api\src\operations\Company" />
-      <recent name="D:\iisnode_www\Holidays\modules1\holidays-api\src\operations" />
-      <recent name="D:\iisnode_www\Holidays\modules1\holidays-api\src\models" />
-      <recent name="D:\iisnode_www\Holidays\modules1\holidays-api" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Repos\HolidaysDemands\front-back-interfaces\src\GetUserInfos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="lb-mocha" type="NodeJSConfigurationType" application-parameters=" --allow-console-logs &quot;dist/__tests__&quot;" nameIsGenerated="true" node-parameters="-r source-map-support/register -r ts-node/register" path-to-js-file="./node_modules/.bin/lb-mocha" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="SubsidiaryController.invokes GET /subsidiaries" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>-r ts-node/register -r source-map-support/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/src/__tests__/acceptance/subsidiary.controller.acceptance.ts</test-file>
+      <test-names>
+        <name value="SubsidiaryController" />
+        <name value="invokes GET /subsidiaries" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.SubsidiaryController.invokes GET /subsidiaries" />
+      <item itemvalue="Node.js.lb-mocha" />
+      <item itemvalue="npm.test:dev" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.test:dev" />
+        <item itemvalue="Mocha.SubsidiaryController.invokes GET /subsidiaries" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -73,7 +162,10 @@
       <updated>1584019713373</updated>
       <workItem from="1584019715581" duration="11522000" />
       <workItem from="1584108654818" duration="1139000" />
-      <workItem from="1584114447204" duration="2219000" />
+      <workItem from="1584114447204" duration="11814000" />
+      <workItem from="1584366477956" duration="492000" />
+      <workItem from="1584367150500" duration="3788000" />
+      <workItem from="1584372400380" duration="12855000" />
     </task>
     <servers />
   </component>
@@ -86,13 +178,172 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="393" y="35" key="#SubsidiaryController.invokes_GET_/subsidiaries" timestamp="1584355403469">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="393" y="35" key="#SubsidiaryController.invokes_GET_/subsidiaries/0.0.1366.738@0.0.1366.738" timestamp="1584355403469" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584363984135">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1584363984135" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584352852170">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1584352852170" />
+    <state width="699" height="438" key="DebuggerActiveHint" timestamp="1584451183793">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="699" height="438" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1584451183793" />
+    <state x="408" y="109" key="FileChooserDialogImpl" timestamp="1584363876674">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="408" y="109" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1584363876674" />
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1584451920313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584451920313" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1584451920311">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1584451920311" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1584451920311">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1584451920311" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1584451920311">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1584451920311" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1584451920314">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584451920314" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1584451920313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1584451920313" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1584451920313">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1584451920313" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1584451920314">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1584451920314" />
+    <state width="1323" height="227" key="GridCell.Tab.2.bottom" timestamp="1584451920315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584451920315" />
+    <state width="1323" height="227" key="GridCell.Tab.2.center" timestamp="1584451920315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1584451920315" />
+    <state width="1323" height="227" key="GridCell.Tab.2.left" timestamp="1584451920315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1584451920315" />
+    <state width="1323" height="227" key="GridCell.Tab.2.right" timestamp="1584451920315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1584451920315" />
+    <state width="1323" height="227" key="GridCell.Tab.3.bottom" timestamp="1584451920315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.3.bottom/0.0.1366.738@0.0.1366.738" timestamp="1584451920315" />
+    <state width="1323" height="227" key="GridCell.Tab.3.center" timestamp="1584451920315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.3.center/0.0.1366.738@0.0.1366.738" timestamp="1584451920315" />
+    <state width="1323" height="227" key="GridCell.Tab.3.left" timestamp="1584451920315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.3.left/0.0.1366.738@0.0.1366.738" timestamp="1584451920315" />
+    <state width="1323" height="227" key="GridCell.Tab.3.right" timestamp="1584451920315">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1584451920315" />
+    <state x="374" y="90" key="RollbackChangesDialog" timestamp="1584364648123">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="374" y="90" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1584364648123" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1584369658485">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1584369658485" />
+    <state width="691" height="377" key="XDebugger.FullValuePopup" timestamp="1584449373377">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="691" height="377" key="XDebugger.FullValuePopup/0.0.1366.738@0.0.1366.738" timestamp="1584449373377" />
+    <state x="245" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584451047810">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="245" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.738@0.0.1366.738" timestamp="1584451047810" />
+    <state x="0" y="0" width="736" height="738" key="find.popup" timestamp="1584368245456">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" width="736" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1584368245456" />
     <state x="937" y="333" width="672" height="677" key="run.anything.popup" timestamp="1584090674283">
       <screen x="0" y="0" width="2560" height="1409" />
     </state>
     <state x="937" y="333" width="672" height="677" key="run.anything.popup/0.0.2560.1409/3840.0.2560.1409@0.0.2560.1409" timestamp="1584090674283" />
-    <state x="943" y="318" width="672" height="678" key="search.everywhere.popup" timestamp="1584095148180">
-      <screen x="0" y="0" width="2560" height="1409" />
+    <state x="503" y="167" width="672" height="356" key="search.everywhere.popup" timestamp="1584376540231">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="503" y="167" width="672" height="356" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1584376540231" />
     <state x="943" y="318" width="672" height="678" key="search.everywhere.popup/0.0.2560.1409/3840.0.2560.1409@0.0.2560.1409" timestamp="1584095148180" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/controllers/subsidiary.controller.ts</url>
+          <line>50</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/models/subsidiary.model.ts</url>
+          <line>18</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@loopback/repository/src/repositories/legacy-juggler-bridge.ts</url>
+          <line>358</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@loopback/repository/src/repositories/legacy-juggler-bridge.ts</url>
+          <line>129</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@loopback/repository/src/repositories/legacy-juggler-bridge.ts</url>
+          <line>136</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@loopback/repository/src/repositories/legacy-juggler-bridge.ts</url>
+          <line>590</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@loopback/repository/src/repositories/legacy-juggler-bridge.ts</url>
+          <line>203</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@loopback/repository/src/repositories/legacy-juggler-bridge.ts</url>
+          <line>162</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

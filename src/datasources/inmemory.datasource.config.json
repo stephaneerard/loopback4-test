@@ -1,0 +1,4 @@
+{
+  "name": "inmemory",
+  "connector": "kv-memory"
+}
