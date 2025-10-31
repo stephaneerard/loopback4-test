@@ -56,7 +56,7 @@
     "loopback-connector-mssql": "^3.8.0",
     "tslib": "^1.10.0",
     "typedi": "^0.8.0",
-    "typeorm": "^0.2.24",
+    "typeorm": "^0.3.26",
     "typeorm-typedi-extensions": "^0.2.3",
     "holidays-demands-commons": "git+ssh://sv-99129:22/tfs/DevelopmentTeam/HR/_git/HolidaysDemands-commons#develop"
   },
